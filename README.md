@@ -4,7 +4,7 @@ Repositório para o material das aulas do curso de Cálculo Numérico da Univers
 
 2023/2
 
-TURMA T3T4
+TURMA T3T4 (14:20 às 16:00)
 
 DATAS DAS PROVAS 
 
@@ -25,7 +25,7 @@ T1 - 13/09 (4a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 1.
 ----------------------------------------------------------------------------------------------
 
 
-TURMA M1M2
+TURMA M1M2 (07:00 às 8:40)
 
 DATAS DAS PROVAS 
 
