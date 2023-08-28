@@ -31,11 +31,11 @@ DATAS DAS PROVAS
 
 P1 - 25/10 (4a. f)
 
-P2 - 01/12 (6a. f)
+P2 - 29/11 (4a. f)
 
-PR - 08/12 (6a. f)
+PR - 06/12 (6a. f)
 
-PF - 15/12 (6a. f)
+PF - 13/12 (6a. f)
 
 
 DATAS DAS ENTREGAS DOS TRABALHOS EXTRAS 
