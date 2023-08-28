@@ -45,3 +45,27 @@ T1 - 18/09 (2a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 1.
 
 
 
+----------------------------------------------------------------------------------------------
+
+CÁLCULO NUMÉRICO PARA GEOLOGIA
+
+TURMA M3M4 (08:50 às 10:30)
+
+DATAS DAS PROVAS 
+
+P1 - 27/09 (4a. f)
+
+P2 - 27/11 (2a. f)
+
+PR - 29/11 (6a. f)
+
+PF - 13/12 (4a. f)
+
+
+DATAS DAS ENTREGAS DOS TRABALHOS EXTRAS 
+
+T1 - 18/09 (2a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 1.
+
+
+
+
