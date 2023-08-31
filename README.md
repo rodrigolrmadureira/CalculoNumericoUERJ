@@ -47,8 +47,7 @@ T1 - 18/09 (2a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 1.
 
 ----------------------------------------------------------------------------------------------
 
-CÁLCULO NUMÉRICO PARA GEOLOGIA e CIÊNCIA DA COMPUTAÇÃO - M3M4
-
+CÁLCULO NUMÉRICO PARA GEOLOGIA e CIÊNCIA DA COMPUTAÇÃO 
 TURMA M3M4 (08:50 às 10:30)
 
 DATAS DAS PROVAS 
