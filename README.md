@@ -21,6 +21,8 @@ DATAS DAS ENTREGAS DOS TRABALHOS EXTRAS
 
 T1 - 13/09 (4a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 1.
 
+T2 - 27/09 (4a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 2.
+
 
 ----------------------------------------------------------------------------------------------
 
@@ -41,6 +43,8 @@ PF - 13/12 (4a. f)
 DATAS DAS ENTREGAS DOS TRABALHOS EXTRAS 
 
 T1 - 18/09 (2a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 1.
+
+T2 - 04/10 (4a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 2.
 
 
 
@@ -64,6 +68,9 @@ PF - 13/12 (4a. f)
 DATAS DAS ENTREGAS DOS TRABALHOS EXTRAS 
 
 T1 - 18/09 (2a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 1.
+
+T2 - 04/10 (4a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 2.
+
 
 
 
