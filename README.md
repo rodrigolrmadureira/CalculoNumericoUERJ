@@ -21,7 +21,7 @@ DATAS DAS ENTREGAS DOS TRABALHOS EXTRAS
 
 T1 - 13/09 (4a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 1.
 
-T2 - 27/09 (4a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 2.
+T2 - 29/09 (6a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 2.
 
 
 ----------------------------------------------------------------------------------------------
