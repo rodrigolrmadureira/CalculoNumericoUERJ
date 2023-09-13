@@ -56,7 +56,7 @@ TURMA M3M4 (08:50 às 10:30)
 
 DATAS DAS PROVAS 
 
-P1 - 27/09 (4a. f)
+P1 - 11/10 (4a. f)
 
 P2 - 27/11 (2a. f)
 
