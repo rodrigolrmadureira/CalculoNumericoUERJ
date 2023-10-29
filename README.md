@@ -23,6 +23,9 @@ T1 - 13/09 (4a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 1.
 
 T2 - 04/10 (4a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 2.
 
+T3 - 22/11 (4a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 4.
+
+
 
 ----------------------------------------------------------------------------------------------
 
@@ -46,7 +49,7 @@ T1 - 18/09 (2a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 1.
 
 T2 - 04/10 (4a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 2.
 
-
+T3 - 22/11 (4a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 4.
 
 
 ----------------------------------------------------------------------------------------------
@@ -71,7 +74,7 @@ T1 - 18/09 (2a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 1.
 
 T2 - 04/10 (4a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 2.
 
-
+T3 - 22/11 (4a. f) - DESCRIÇÃO: ÚLTIMO EXERCÍCIO DA LISTA 4.
 
 
 
