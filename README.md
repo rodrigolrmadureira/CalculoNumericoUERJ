@@ -8,7 +8,7 @@ TURMA T3T4 (14:20 às 16:00)
 
 DATAS DAS PROVAS 
 
-P1 - 25/10 (4a. f)
+P1 - 27/10 (4a. f)
 
 P2 - 01/12 (6a. f)
 
@@ -61,9 +61,9 @@ DATAS DAS PROVAS
 
 P1 - 11/10 (4a. f)
 
-P2 - 27/11 (2a. f)
+P2 - 29/11 (4a. f)
 
-PR - 29/11 (4a. f)
+PR - 06/12 (4a. f)
 
 PF - 13/12 (4a. f)
 
