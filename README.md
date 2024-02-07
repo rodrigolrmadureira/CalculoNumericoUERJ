@@ -4,7 +4,7 @@ Repositório para o material das aulas do curso de Cálculo Numérico da Univers
 
 2024/1
 
-TURMA M5M6 (10:40 às 12:20)
+TURMA M5M6 (Terças e Quintas - 10:40 às 12:20)
 
 DATAS DAS PROVAS 
 
