@@ -8,7 +8,7 @@ TURMA M5M6 (Terças e Quintas - 10:40 às 12:20)
 
 DATAS DAS PROVAS 
 
-P1 - 25/04 (5a. f)
+P1 - 18/04 (5a. f)
 
 P2 - 20/06 (5a. f)
 
