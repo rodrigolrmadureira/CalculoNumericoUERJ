@@ -25,6 +25,11 @@ realização da PR.
 
 DATAS DE ENTREGAS DOS TRABALHOS:
 
-TRABALHO 1 - Até 26/03 (3a. f) em sala de aula ou por e-mail (neste caso, por favor, enviar um arquivo legível até a data marcada).
+TRABALHO 1 - Até 26/03 (3a. feira) em sala de aula ou por e-mail (neste caso, por favor, enviar um arquivo legível até a data marcada).
+
+Os trabalhos devem ser entregues MANUSCRITOS ou DIGITADOS ATÉ A DATA MARCADA em sala de aula ou por e-mail. 
+
+Para trabalhos entregues via e-mail, os arquivos devem estar LEGÍVEIS no formato PDF.
+
 
 
