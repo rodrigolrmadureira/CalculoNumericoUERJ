@@ -27,7 +27,7 @@ DATAS DE ENTREGAS DOS TRABALHOS:
 
 TRABALHO 1 - Até 26/03 (3a. feira) em sala de aula ou por e-mail (neste caso, por favor, enviar um arquivo legível até a data marcada).
 
-TRABALHO 2 - Até 07/05 (3a. f) em sala de aula ou por e-mail (neste caso, por favor, enviar um arquivo legível até a data marcada).
+TRABALHO 2 - Até 14/05 (3a. f) em sala de aula ou por e-mail (neste caso, por favor, enviar um arquivo legível até a data marcada).
 
 
 Os trabalhos devem ser entregues MANUSCRITOS ou DIGITADOS ATÉ A DATA MARCADA em sala de aula ou por e-mail. 
