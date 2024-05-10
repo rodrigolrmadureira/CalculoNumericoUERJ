@@ -23,7 +23,7 @@ Em função dos problemas ocorridos na UERJ neste semestre com os auxílios dos 
 
 Ou seja, quem foi mal em uma das provas e quiser melhorar a nota, poderá ter uma nova chance.
 
-Obs.: A reposição é para somente uma das provas (P1 ou P2). Não vale para as duas provas simultaneamente.
+Obs.: A REPOSIÇÃO É PARA SOMENTE UMA DAS PROVAS (P1 ou P2). NÃO VALE PARA AS DUAS PROVAS SIMULTANEAMENTE.
 
 
 
