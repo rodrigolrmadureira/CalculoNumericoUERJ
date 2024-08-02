@@ -2,42 +2,35 @@
 Repositório para o material das aulas do curso de Cálculo Numérico da Universidade do Estado do Rio de Janeiro, ministrado pelo Prof. Rodrigo Madureira.
 
 
-2024/1
+2024/2
 
-TURMA M5M6 (Terças e Quintas - 10:40 às 12:20)
 
 DATAS DAS PROVAS 
 
-P1 - 25/04 (5a. f)
+P1 - 02/10 (4a. feira)
 
-P2 - 20/06 (5a. f)
+Aritmética de ponto flutuante
 
-PR - 27/06 (5a. f)
+Raízes
 
-PF - 04/07 (5a. f)
+Sistemas Lineares - Métodos diretos
 
+Sistemas Lineares - Métodos iterativos
+
+
+
+P2 - 27/11 (4a. feira)
+
+Interpolação Polinomial
+
+Método dos Mínimos Quadrados
+
+Integração Numérica
+
+
+PR - 04/12 (4a. feira)
+
+PF - 11/12 (4a. feira)
 
 OBS.: A prova de reposição (PR) substitui P1 ou P2.
-
-Em função dos problemas ocorridos na UERJ neste semestre com os auxílios dos alunos, vou abrir uma exceção neste período e deixar a prova de reposição em aberto para P1 ou P2.
-
-Ou seja, quem foi mal em uma das provas e quiser melhorar a nota, poderá ter uma nova chance.
-
-Obs.: A REPOSIÇÃO É PARA SOMENTE UMA DAS PROVAS (P1 ou P2). NÃO VALE PARA AS DUAS PROVAS SIMULTANEAMENTE.
-
-
-
-
-DATAS DE ENTREGAS DOS TRABALHOS:
-
-TRABALHO 1 - Até 26/03 (3a. feira) em sala de aula ou por e-mail (neste caso, por favor, enviar um arquivo legível até a data marcada).
-
-TRABALHO 2 - Até 14/05 (3a. f) em sala de aula ou por e-mail (neste caso, por favor, enviar um arquivo legível até a data marcada).
-
-
-Os trabalhos devem ser entregues MANUSCRITOS ou DIGITADOS ATÉ A DATA MARCADA em sala de aula ou por e-mail. 
-
-Para trabalhos entregues via e-mail, os arquivos devem estar LEGÍVEIS no formato PDF.
-
-
 
