@@ -33,7 +33,7 @@ Método dos Mínimos Quadrados
 Integração Numérica
 
 
-PR - 02/12 (2a. feira)
+PR - 02/12 (2a. feira) (PARA A TURMA DA GEOLOGIA)
 
 PF - 11/12 (4a. feira)
 
