@@ -12,7 +12,7 @@ OBS.: POR FAVOR, PRESTE ATENÇÃO NA TURMA CORRETA AO CONSULTAR AS DATAS.
 
 CÁLCULO NUMÉRICO PARA GEOLOGIA - TURMA 1 - M1M2 - 07:00 ÀS 08:40
 
-P1 - 02/10 (4a. feira)
+P1 - 30/09 (2a. feira)
 
 Aritmética de ponto flutuante
 
