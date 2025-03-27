@@ -1,7 +1,13 @@
 # CalculoNumericoUERJ
 Repositório para o material das aulas do curso de Cálculo Numérico da Universidade do Estado do Rio de Janeiro, ministrado pelo Prof. Rodrigo Madureira.
 
-DATAS DAS PROVAS - 2025/1
+DATAS DAS PROVAS - UERJ - 2025/1 
+
+ATENÇÃO: SÃO DUAS TURMAS - MATEMÁTICA e ENGENHARIA
+
+NEM TODAS AS DATAS COINCIDEM ENTRE ELAS.
+
+-------------------------------------------------------------------------------------------------------------
 
 TURMA DA MATEMÁTICA - UERJ
 
@@ -31,10 +37,11 @@ PR (Reposição) - 09/07/2025 (4a. Feira)
 
 PF (Final) - 16/07/2025 (4a. Feira)
 
+--------------------------------------------------------------------------------------------------------
+
 
 TURMA DA ENGENHARIA - UERJ
 
-Datas das provas
 
 P1 - 07/05/2025 (4a. Feira)
 
