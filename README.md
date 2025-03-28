@@ -17,7 +17,7 @@ Aritmética de ponto flutuante
 
 Série de Taylor 
 
-Raízes de Equações (Ponto Fixo e Newton-Raphson)
+Raízes de Equações (Bisseção, Ponto Fixo e Newton-Raphson)
 
 Sistemas Lineares - Métodos diretos e iterativos
 
@@ -47,7 +47,7 @@ P1 - 07/05/2025 (4a. Feira)
 
 Aritmética de ponto flutuante
 
-Raízes de Equações (Ponto Fixo e Newton-Raphson)
+Raízes de Equações (Bisseção, Ponto Fixo e Newton-Raphson)
 
 Sistemas Lineares - Métodos diretos
 
