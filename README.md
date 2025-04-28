@@ -15,8 +15,6 @@ P1 - 09/05/2025 (6a. Feira)
 
 Aritmética de ponto flutuante
 
-Série de Taylor 
-
 Raízes de Equações 
 
 Sistemas Lineares - Métodos diretos
@@ -32,7 +30,7 @@ Ajuste de pontos pela Reta dos Mínimos Quadrados
 
 Integração Numérica (Regras de Trapézios e (1/3) de Simpson)
 
-Métodos Numéricos para EDOs
+Métodos Numéricos para EDOs 
 
 
 PR (Reposição) - 09/07/2025 (4a. Feira)
