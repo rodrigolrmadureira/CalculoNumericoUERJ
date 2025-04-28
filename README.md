@@ -19,10 +19,12 @@ Série de Taylor
 
 Raízes de Equações 
 
-Sistemas Lineares - Métodos diretos e iterativos
+Sistemas Lineares - Métodos diretos
 
 
 P2 - 04/07/2025 (6a. Feira)
+
+Sistemas Lineares - Métodos iterativos
 
 Interpolação Polinomial de Lagrange
 
