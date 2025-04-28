@@ -57,7 +57,7 @@ Sistemas Lineares - Métodos diretos
 P2 - 02/07/2025 (4a. Feira)
 
 
-Gauss-Seidel e Critério de Sassenfeld
+Sistemas Lineares - Métodos iterativos
 
 Interpolação Polinomial de Lagrange
 
