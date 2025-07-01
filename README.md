@@ -20,7 +20,7 @@ Raízes de Equações
 Sistemas Lineares - Métodos diretos
 
 
-P2 - 04/07/2025 (6a. Feira)
+P2 - 09/07/2025 (4a. Feira)
 
 Sistemas Lineares - Gauss-Seidel 
 
@@ -33,7 +33,7 @@ Integração Numérica (Regras de Trapézios e (1/3) de Simpson)
 Métodos Numéricos para EDOs (Euler e Euler melhorado)
 
 
-PR (Reposição) - 09/07/2025 (4a. Feira)
+PR (Reposição) - 14/07/2025 (2a. Feira)
 
 PF (Final) - 16/07/2025 (4a. Feira)
 
