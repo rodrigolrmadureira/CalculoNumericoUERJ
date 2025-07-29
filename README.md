@@ -1,75 +1,16 @@
 # CalculoNumericoUERJ
 Repositório para o material das aulas do curso de Cálculo Numérico da Universidade do Estado do Rio de Janeiro, ministrado pelo Prof. Rodrigo Madureira.
 
-DATAS DAS PROVAS - UERJ - 2025/1 
-
-ATENÇÃO: SÃO DUAS TURMAS - MATEMÁTICA e ENGENHARIA
-
-NEM TODAS AS DATAS COINCIDEM ENTRE ELAS.
+DATAS DAS PROVAS - UERJ - 2025/2 
 
 -------------------------------------------------------------------------------------------------------------
 
-TURMA DA MATEMÁTICA - UERJ
+P1 - 01/10 (Quarta-feira)
 
-P1 - 09/05/2025 (6a. Feira)
+P2 - 26/11 (Quarta-feira)
 
-Aritmética de ponto flutuante
+PR - 03/12 (Quarta-feira)
 
-Raízes de Equações 
-
-Sistemas Lineares - Métodos diretos
-
-
-P2 - 09/07/2025 (4a. Feira)
-
-Sistemas Lineares - Gauss-Seidel 
-
-Interpolação Polinomial de Newton
-
-Ajuste de pontos pela Reta dos Mínimos Quadrados
-
-Integração Numérica (Regras de Trapézios e (1/3) de Simpson)
-
-Métodos Numéricos para EDOs (Euler e Euler melhorado)
-
-
-PR (Reposição) - 14/07/2025 (2a. Feira)
-
-PF (Final) - 16/07/2025 (4a. Feira)
+PF - 10/12 (Quarta-feira)
 
 --------------------------------------------------------------------------------------------------------
-
-
-TURMA DA ENGENHARIA - UERJ
-
-
-P1 - 07/05/2025 (4a. Feira)
-
-Aritmética de ponto flutuante
-
-Raízes de Equações 
-
-Sistemas Lineares - Métodos diretos
-
-
-P2 - 02/07/2025 (4a. Feira)
-
-
-Sistemas Lineares - Gauss-Seidel
-
-Interpolação Polinomial de Newton
-
-Ajuste de pontos pela Reta dos Mínimos Quadrados
-
-Integração Numérica (Regras de Trapézios e (1/3) de Simpson)
-
-Métodos Numéricos para EDOs (Euler e Euler melhorado)
-
-
-PR (Reposição) - 09/07/2025 (4a. Feira)
-
-PF (Final) - 16/07/2025 (4a. Feira)
- 
-
-
-
