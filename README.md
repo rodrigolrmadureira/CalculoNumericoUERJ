@@ -21,6 +21,6 @@ DATA DE ENTREGA: 12/09/2025 (Sexta-feira)
 
 PELA [PAGINA DO AVA](https://ava.pr1.uerj.br/mod/assign/view.php?id=364628) OU POR [E-MAIL](mailto:rodrigo.madureira@ime.uerj.br)
 
-****SOMENTE EM ARQUIVO PDF
+**SOMENTE EM ARQUIVO PDF**
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
