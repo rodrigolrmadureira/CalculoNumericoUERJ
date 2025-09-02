@@ -1,7 +1,15 @@
 # CalculoNumericoUERJ
 Repositório para o material das aulas do curso de Cálculo Numérico da Universidade do Estado do Rio de Janeiro, ministrado pelo Prof. Rodrigo Madureira.
 
-DATAS DAS PROVAS - UERJ - 2025/2 
+**Repositório para o material das aulas do curso de Matemática Discreta da Universidade do Estado do Rio de Janeiro, ministrado pelo Prof. Rodrigo Madureira.**
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**2025/2**
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**DATAS DAS PROVAS**
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 P1 - 10/10 (Sexta-feira)
 
@@ -13,11 +21,14 @@ PF - 10/12 (Quarta-feira)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-TRABALHO EXTRA Nº 1 (ARITMÉTICA DE PONTO FLUTUANTE - IEEE-754): 
+**TRABALHOS**
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**TRABALHO EXTRA Nº 1 (INDUÇÃO FINITA):**
 
 VEJA DESCRIÇÃO EM: [TRABALHO EXTRA Nº 1](https://github.com/rodrigolrmadureira/CalculoNumericoUERJ/blob/main/Trabalhos/CN_Trabalho1_2025_2.pdf).
 
-DATA DE ENTREGA: 12/09/2025 (Sexta-feira)
+**DATA DE ENTREGA: 12/09/2025 (Sexta-feira)**
 
 PELA [PAGINA DO AVA](https://ava.pr1.uerj.br/mod/assign/view.php?id=364628) OU POR [E-MAIL](mailto:rodrigo.madureira@ime.uerj.br)
 
