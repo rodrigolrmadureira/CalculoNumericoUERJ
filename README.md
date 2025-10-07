@@ -20,3 +20,29 @@ PR - 03/12 (Quarta-feira)
 PF - 10/12 (Quarta-feira)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**TRABALHOS**
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**TRABALHO EXTRA Nº 1:**
+
+VEJA DESCRIÇÃO EM: [TRABALHO EXTRA Nº 1](https://github.com/rodrigolrmadureira/CalculoNumericoUERJ/blob/main/Trabalhos/CN_Trabalho1_2025_2.pdf
+).
+
+**DATA DE ENTREGA: 12/09/2025 (Sexta-feira)**
+
+PELA [PAGINA DO AVA](https://ava.pr1.uerj.br/mod/assign/view.php?id=364628) OU POR [E-MAIL](mailto:rodrigo.madureira@ime.uerj.br)
+**SOMENTE EM ARQUIVO PDF**
+
+
+**TRABALHO EXTRA Nº 2:**
+
+VEJA DESCRIÇÃO EM: [TRABALHO EXTRA Nº 2](https://github.com/rodrigolrmadureira/CalculoNumericoUERJ/tree/main/Trabalhos/Trabalho%202).
+
+**DATA DE ENTREGA: 06/10/2025 (Segunda-feira)**
+
+PELA [PAGINA DO AVA](https://ava.pr1.uerj.br/mod/assign/view.php?id=366579) OU POR [E-MAIL](mailto:rodrigo.madureira@ime.uerj.br)
+**SOMENTE EM ARQUIVO PDF**
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
