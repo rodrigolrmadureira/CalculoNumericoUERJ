@@ -11,6 +11,7 @@ P1 - 16/12 (Quarta-feira)
   - Raízes ou zeros de funções reais
 
 P2 - 24/02 (Quarta-feira)
+
     - Sistemas Lineares
     - Métodos diretos (Eliminação de Gauss e Fatoração LU)
     - Métodos iterativos (Gauss-Seidel e Critérios de convergência)
